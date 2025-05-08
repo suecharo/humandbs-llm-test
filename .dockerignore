@@ -1,0 +1,7 @@
+# Ignore everything
+**
+
+!humandbs_llm_test
+!LICENSE
+!pyproject.toml
+!README.md

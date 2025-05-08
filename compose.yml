@@ -1,0 +1,12 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: humandbs-llm-test
+    volumes:
+      - ${PWD}:/app
+    restart: on-failure
+    working_dir: /app
+    command: [ "sleep", "infinity" ]
+    init: true

@@ -1,0 +1,1842 @@
+[
+  {
+    "humVersionId": "hum0006-v2",
+    "value": "HumanMethylation450_15017482_v1.1 (bpm)"
+  },
+  {
+    "humVersionId": "hum0006-v3",
+    "value": "HumanMethylation450_15017482_v1.1 (bpm)"
+  },
+  {
+    "humVersionId": "hum0006-v4",
+    "value": "HumanMethylation450_15017482_v1.1 (bpm)"
+  },
+  {
+    "humVersionId": "hum0006-v5",
+    "value": "HumanMethylation450_15017482_v1.1 (bpm)"
+  },
+  {
+    "humVersionId": "hum0009-v2",
+    "value": "Bisulfite conversion rates were estimated using reads that uniquely aligned to the lambda phage genome and were >99% for all samples."
+  },
+  {
+    "humVersionId": "hum0009-v3",
+    "value": "Bisulfite conversion rates were estimated using reads that uniquely aligned to the lambda phage genome and were >99% for all samples."
+  },
+  {
+    "humVersionId": "hum0012-v1",
+    "value": "Surrounding sequences of each probe were aligned by using of BLAST algorithm.\n(Probes for copy number variants, unmapped probes, and multi-mapped probes were removed.)"
+  },
+  {
+    "humVersionId": "hum0013-v1",
+    "value": "Call Rate ≧ 0.95 and HWE ≧ 0.001"
+  },
+  {
+    "humVersionId": "hum0015-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0015-v2",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0015-v2",
+    "value": "quantitative MiSeq (doi: 10.1016/j.ab.2014.08.015)"
+  },
+  {
+    "humVersionId": "hum0015-v3",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0015-v3",
+    "value": "quantitative MiSeq (doi: 10.1016/j.ab.2014.08.015)"
+  },
+  {
+    "humVersionId": "hum0015-v3",
+    "value": "quantitative MiSeq (doi: 10.1016/j.ab.2014.08.015)"
+  },
+  {
+    "humVersionId": "hum0028-v1",
+    "value": "Sample Call Rate < 0.98, SNP Call Rate < 0.99, HWE-P < 1x10^-6"
+  },
+  {
+    "humVersionId": "hum0028-v2",
+    "value": "Sample Call Rate < 0.98, SNP Call Rate < 0.99, HWE-P < 1x10^-6"
+  },
+  {
+    "humVersionId": "hum0029-v1",
+    "value": "Sample Call rate < 0.95, SNP call rate < 0.97, HWE P < 0.001"
+  },
+  {
+    "humVersionId": "hum0029-v2",
+    "value": "Sample Call rate < 0.95, SNP call rate < 0.97, HWE P < 0.001"
+  },
+  {
+    "humVersionId": "hum0029-v2",
+    "value": "variant call rates < 95%, MAF < 1%, or HWE p-value < 1×10^-5"
+  },
+  {
+    "humVersionId": "hum0030-v2",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0030-v3",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0030-v3",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0030-v3",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0035-v2",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0035-v3",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0035-v4",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0035-v5",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0042-v1",
+    "value": "Sample Call rate ≤ 0.98, SNP call rate ≤ 0.98, MAF ≤ 3%, HWE P < 1 x 10^-6"
+  },
+  {
+    "humVersionId": "hum0053-v2",
+    "value": "default of 10x genomics SV-calling algorithms"
+  },
+  {
+    "humVersionId": "hum0055-v1",
+    "value": "Probes as shown below were excluded:\nwith intensities indistinguishable from the background (detection P-value > 0.05) in more than one sample\nwith a bead count < 3 in at least 5 % of samples\nincluding any SNPs \ncross-reactive"
+  },
+  {
+    "humVersionId": "hum0056-v1",
+    "value": "qMiSeq*1"
+  },
+  {
+    "humVersionId": "hum0056-v1",
+    "value": "minor allele count (MAC) > 1"
+  },
+  {
+    "humVersionId": "hum0056-v1",
+    "value": "electrophoresis and qPCR"
+  },
+  {
+    "humVersionId": "hum0056-v1",
+    "value": "electrophoresis and qPCR"
+  },
+  {
+    "humVersionId": "hum0072-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.97, HWE P (in control) < 0.001"
+  },
+  {
+    "humVersionId": "hum0072-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.99, HWE P < 0.001"
+  },
+  {
+    "humVersionId": "hum0074-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0074-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0074-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0074-v2",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0074-v2",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0074-v2",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0074-v2",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, MAF < 0.05, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v1",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v2",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v2",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v2",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v2",
+    "value": "Sample call rate < 0.97, SNP call rate < 0.95, MAF P < 0.03, HWE P < 0.001\nChi-square test P < 0.05"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "value": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "value": "Sample call rate < 0.97, SNP call rate < 0.95, MAF P < 0.03, HWE P < 0.001\nChi-square test P < 0.05"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "value": "pre-imputation QC: SNP call rate < 0.97, MAF P < 0.01, HWE P < 1 x10^-6\nafter imputation QC: SNPs with an info metric < 0.8 were excluded."
+  },
+  {
+    "humVersionId": "hum0076-v1",
+    "value": "Sample Call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.05"
+  },
+  {
+    "humVersionId": "hum0082-v1",
+    "value": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0082-v1",
+    "value": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0082-v2",
+    "value": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0082-v2",
+    "value": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0085-v1",
+    "value": "For the aberration filter, the minimum number of probes in regions was set to three and the minimum absolute average log-ratio of region was set to each array."
+  },
+  {
+    "humVersionId": "hum0085-v2",
+    "value": "For the aberration filter, the minimum number of probes in regions was set to three and the minimum absolute average log-ratio of region was set to each array."
+  },
+  {
+    "humVersionId": "hum0094-v3",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v3",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v4",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v4",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v5",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v5",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v6",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v6",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v7",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v7",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v8",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v8",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v9",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v9",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v10",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v10",
+    "value": "As described in 'Illumina Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v11",
+    "value": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v11",
+    "value": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0099-v1",
+    "value": "Total read counts < 2 x 107 、Mapping rates < 90%、Mean inter-sample correlation coefficients < 0.94"
+  },
+  {
+    "humVersionId": "hum0099-v1",
+    "value": "MAF ≥ 0.05, average maximum posterior probability ≥ 0.9, INFO ≥ 0.4 (5,600,101 variants)"
+  },
+  {
+    "humVersionId": "hum0103-v3",
+    "value": "Data with bad base quality and high %GC content were removed.\nAligment:\nData matched for the following condition were removed.\n- Low mapping rate\n- Different insert size\n- Gender information mismatch between meta-data and genotype data\n- Suspected sex chromosome aberration\nGenotyping:\nGATK’s best practices includes a variant filtering step following Variant Quality Score Recalibration (VQSR)\n- DP/GP (DP < 5, GQ < 20, DP > 60, GQ < 95 )\n- Heterozygosity (F>=0.05)\n- Hardy-Weinberg equilibrium (p < 10^-6）\n- Repeat & Low Complexity\nPrincipal Component Analysis (PCA):\nPCA was performed with individuals included in the 1000 genomes project and outliers from Japanese cluster were removed.\n \nAfter these filtering steps, variants located in the regions listed as the HighConfidenceRegion (Genome-In-A-Bottle project) were flagged."
+  },
+  {
+    "humVersionId": "hum0103-v4",
+    "value": "Data with bad base quality and high %GC content were removed.\nAligment:\nData matched for the following condition were removed.\n- Low mapping rate\n- Different insert size\n- Gender information mismatch between meta-data and genotype data\n- Suspected sex chromosome aberration\nGenotyping:\nGATK’s best practices includes a variant filtering step following Variant Quality Score Recalibration (VQSR)\n- DP/GP (DP < 5, GQ < 20, DP > 60, GQ < 95 )\n- Heterozygosity (F>=0.05)\n- Hardy-Weinberg equilibrium (p < 10^-6）\n- Repeat & Low Complexity\nPrincipal Component Analysis (PCA):\nPCA was performed with individuals included in the 1000 genomes project and outliers from Japanese cluster were removed.\n \nAfter these filtering steps, variants located in the regions listed as the HighConfidenceRegion (Genome-In-A-Bottle project) were flagged."
+  },
+  {
+    "humVersionId": "hum0108-v1",
+    "value": "(1) detection p value of each probe ≥ 0.01 \n(2) probe call rate >95% \n(3) on autosomal chromosomes\n(4) does not include SNP which minor allele frequency is greater than or equal to 5%\n(5) hybridizes to a specific sequence*1"
+  },
+  {
+    "humVersionId": "hum0114-v1",
+    "value": "sample call rate < 0.99, SNP call rate < 0.99, HWE-P < 1x10^-7"
+  },
+  {
+    "humVersionId": "hum0114-v2",
+    "value": "sample call rate < 0.99, SNP call rate < 0.99, HWE-P < 1x10^-7"
+  },
+  {
+    "humVersionId": "hum0114-v3",
+    "value": "sample call rate < 0.99, SNP call rate < 0.99, HWE-P < 1x10^-7"
+  },
+  {
+    "humVersionId": "hum0115-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0117-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0119-v1",
+    "value": "Exclusion criteria : sample call-rate < 0.95, PCA outlier of Japanese population, encrypted relatedness (pihat > 0.38)\nSNP call-rate < 0.99, HWE-p < 1e-6, MAF< 0.01"
+  },
+  {
+    "humVersionId": "hum0126-v1",
+    "value": "Sample Call rate < 0.97, SNP call rate < 0.97, HWE P < 0.0001, MAF < 0.05"
+  },
+  {
+    "humVersionId": "hum0126-v2",
+    "value": "Sample Call rate < 0.97, SNP call rate < 0.97, HWE P < 0.0001, MAF < 0.05"
+  },
+  {
+    "humVersionId": "hum0126-v2",
+    "value": "Sample Call rate < 0.97, SNP call rate < 0.97, HWE P < 0.0001, MAF < 0.05\nImputation quality (Rsq) < 0.5"
+  },
+  {
+    "humVersionId": "hum0127-v1",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "The scanned images were analyzed with Feature Extraction Software 9.1 (Agilent) using default parameters (protocol GE1-v1_91 and Grid: 012391_D_20060331) to obtain background subtracted and spatially detrended Processed Signal intensities. Features flagged in Feature Extraction as Feature Non-uniform outliers were excluded."
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "Agilent Feature Extraction software"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "The scanned images were analyzed with Feature Extraction Software 9.1 (Agilent) using default parameters (protocol GE1-v1_91 and Grid: 012391_D_20060331) to obtain background subtracted and spatially detrended Processed Signal intensities. Features flagged in Feature Extraction as Feature Non-uniform outliers were excluded."
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "Agilent Feature Extraction software"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v3",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "The scanned images were analyzed with Feature Extraction Software 9.1 (Agilent) using default parameters (protocol GE1-v1_91 and Grid: 012391_D_20060331) to obtain background subtracted and spatially detrended Processed Signal intensities. Features flagged in Feature Extraction as Feature Non-uniform outliers were excluded."
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "Agilent Feature Extraction software"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v4",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0136-v1",
+    "value": "overall call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, MAF < 0.05, Regression P < 0.05"
+  },
+  {
+    "humVersionId": "hum0136-v2",
+    "value": "overall call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, MAF < 0.05, Regression P < 0.05"
+  },
+  {
+    "humVersionId": "hum0136-v2",
+    "value": "overall call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, MAF < 0.05, Regression P < 0.05"
+  },
+  {
+    "humVersionId": "hum0136-v3",
+    "value": "overall call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, MAF < 0.05, Regression P < 0.05"
+  },
+  {
+    "humVersionId": "hum0136-v3",
+    "value": "overall call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, MAF < 0.05, Regression P < 0.05"
+  },
+  {
+    "humVersionId": "hum0158-v3",
+    "value": "Data with bad base quality and high %GC content were removed.\nAligment:\nData matched for the following condition were removed.\n- Low mapping rate\n- Different insert size\n- Gender information mismatch between meta-data and genotype data\n- Suspected sex chromosome aberration\nGenotyping:\nGATK’s best practices includes a variant filtering step following Variant Quality Score Recalibration (VQSR)\n- DP/GP (DP < 5, GQ < 20, DP > 60, GQ < 95 )\n- Heterozygosity (F>=0.05)\n- Hardy-Weinberg equilibrium (p < 10^-6)\n- Repeat & Low Complexity\nPrincipal Component Analysis (PCA):\nPCA was performed with individuals included in the 1000 genomes project and outliers from Japanese cluster were removed.\n \nAfter these filtering steps, variants located in the regions listed as the HighConfidenceRegion (Genome-In-A-Bottle project) were flagged."
+  },
+  {
+    "humVersionId": "hum0160-v2",
+    "value": "Data with bad base quality and high %GC content were removed.\nAligment:\nData matched for the following condition were removed.\n- Low mapping rate\n- Different insert size\n- Gender information mismatch between meta-data and genotype data\n- Suspected sex chromosome aberration\nGenotyping:\nGATK’s best practices includes a variant filtering step following Variant Quality Score Recalibration (VQSR)\n- DP/GP (DP < 5, GQ < 20, DP > 60, GQ < 95 )\n- Heterozygosity (F>=0.05)\n- Hardy-Weinberg equilibrium (p < 10^-6)\n- Repeat & Low Complexity\nPrincipal Component Analysis (PCA):\nPCA was performed with individuals included in the 1000 genomes project and outliers from Japanese cluster were removed.\n \nAfter these filtering steps, variants located in the regions listed as the HighConfidenceRegion (Genome-In-A-Bottle project) were flagged."
+  },
+  {
+    "humVersionId": "hum0163-v3",
+    "value": "sample call rate < 0.99, SNP call rate < 0.99, HWE-P < 1x10^-6"
+  },
+  {
+    "humVersionId": "hum0164-v1",
+    "value": "Sample: Call rate > 0.98\nSNP: HWE P < 0.0001, MAF < 0.01, Missing rate > 0.05"
+  },
+  {
+    "humVersionId": "hum0166-v1",
+    "value": "・SNVs with low imputation quality\n (with a posterior genotype probability of < 0.8 for each genotype or with info score < 0.5 for each variant)\n・call rate < 0.97\n・minor allele frequency (MAF) < 0.01 or 0.05\n (0.01 for GWASs of > 50 cases, 0.05 for GWASs of low-frequency adverse events or conditional GWASs on rs116855232)\n・Hardy–Weinberg equilibrium (HWE) p < 1 × 10^−6"
+  },
+  {
+    "humVersionId": "hum0166-v2",
+    "value": "・SNVs with low imputation quality\n (with a posterior genotype probability of < 0.8 for each genotype or with info score < 0.5 for each variant)\n・call rate < 0.97\n・minor allele frequency (MAF) < 0.01 or 0.05\n (0.01 for GWASs of > 50 cases, 0.05 for GWASs of low-frequency adverse events or conditional GWASs on rs116855232)\n・Hardy–Weinberg equilibrium (HWE) p < 1 × 10^−6"
+  },
+  {
+    "humVersionId": "hum0167-v1",
+    "value": "Post-imputation QC: Variants with imputation quality of Rsq < 0.7 in BBJ or Rsq < 0.3 in others were excluded. We also excluded variants with MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0169-v1",
+    "value": "nucleotides with Quality Value ＜20 were masked"
+  },
+  {
+    "humVersionId": "hum0169-v1",
+    "value": "read length ≧20, mutation rate ≧10%"
+  },
+  {
+    "humVersionId": "hum0169-v2",
+    "value": "nucleotides with Quality Value ＜20 were masked"
+  },
+  {
+    "humVersionId": "hum0169-v2",
+    "value": "read length ≧20, mutation rate ≧10%"
+  },
+  {
+    "humVersionId": "hum0174-v1",
+    "value": "1. Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer\n2. qPCR, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v2",
+    "value": "1. Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer\n2. qPCR, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v3",
+    "value": "1. Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer\n2. qPCR, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v4",
+    "value": "1. Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer\n2. qPCR, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v4",
+    "value": "Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v5",
+    "value": "1. Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer\n2. qPCR, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v5",
+    "value": "Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v5",
+    "value": "Qubit, NanoDrop, TapeStation, Femto Pulse, Pulsed-field gel electrophoresis"
+  },
+  {
+    "humVersionId": "hum0174-v6",
+    "value": "1. Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer\n2. qPCR, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v6",
+    "value": "Qubit, Pulsed-field gel electrophoresis, TapeStation, Bioanalyzer"
+  },
+  {
+    "humVersionId": "hum0174-v6",
+    "value": "Qubit, NanoDrop, TapeStation, Femto Pulse, Pulsed-field gel electrophoresis"
+  },
+  {
+    "humVersionId": "hum0180-v1",
+    "value": ""
+  },
+  {
+    "humVersionId": "hum0182-v2",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0182-v3",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0182-v4",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0182-v5",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0184-v2",
+    "value": "Data with bad base quality and high %GC content were removed.\nAligment:\nData matched for the following condition were removed.\n- Low mapping rate\n- Different insert size\n- Gender information mismatch between meta-data and genotype data\n- Suspected sex chromosome aberration\nGenotyping:\nGATK’s best practices includes a variant filtering step following Variant Quality Score Recalibration (VQSR)\n- DP/GP (DP < 5, GQ < 20, DP > 60, GQ < 95 )\n- Heterozygosity (F>=0.05)\n- Hardy-Weinberg equilibrium (p < 10^-6）\n- Repeat & Low Complexity\nPrincipal Component Analysis (PCA):\nPCA was performed with individuals included in the 1000 genomes project and outliers from Japanese cluster were removed.\nAfter these filtering steps, variants located in the regions listed as the HighConfidenceRegion (Genome-In-A-Bottle project) were flagged."
+  },
+  {
+    "humVersionId": "hum0187-v2",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0196-v1",
+    "value": "Variants which match the following criteria were excluded:\n- sample call rate < 0.98, SNV call rate < 0.98, MAF < 0.01,\n- HWE P < 1 x 10-6 in control\n- imputation quality of Rsq < 0.7 in each of the 1st and 2nd dataset"
+  },
+  {
+    "humVersionId": "hum0197-v2",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v3",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v3",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v4",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v4",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v5",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v5",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v5",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v6",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v6",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v6",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v6",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v6",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v7",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v7",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v7",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v7",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v7",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v8",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v8",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v8",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v8",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v8",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v9",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v9",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v9",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v9",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v9",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v9",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v10",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v10",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v10",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v10",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v10",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v10",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v10",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v11",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v11",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v11",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v11",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v11",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v11",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v11",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v12",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v12",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v12",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v12",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v12",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v12",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v12",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v13",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v13",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v13",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v13",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v13",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v13",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v13",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v14",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v14",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v14",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v14",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v14",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v14",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v14",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v15",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v15",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v15",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v15",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v15",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v15",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v15",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v16",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v17",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v18",
+    "value": "SNP array data: \n      Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Asian ancestry using PCA. \n       Variant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project. \n      Post-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 1%. \nWGS:\n     We excluded variants with genotype call rate <90%, ExcessHet > 60, Hardy-Weinberg P<1.0×10−10\n     After imputation with Beagle v5.1, we excluded imputed variants with minor allele frequency < 1%."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "SNP array data: \n      Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Asian ancestry using PCA. \n       Variant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project. \n      Post-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 1%. \nWGS:\n     We excluded variants with genotype call rate <90%, ExcessHet > 60, Hardy-Weinberg P<1.0×10−10\n     After imputation with Beagle v5.1, we excluded imputed variants with minor allele frequency < 1%."
+  },
+  {
+    "humVersionId": "hum0197-v19",
+    "value": "Variants with imputation quality of Rsq < 0.3 or minor allele frequency\n(MAF) < 1% were excluded\nThe details are described below\nhttps://doi.org/10.1038/s41588-024-01782-y"
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "SNP array data: \n      Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Asian ancestry using PCA. \n       Variant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project. \n      Post-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 1%. \nWGS:\n     We excluded variants with genotype call rate <90%, ExcessHet > 60, Hardy-Weinberg P<1.0×10−10\n     After imputation with Beagle v5.1, we excluded imputed variants with minor allele frequency < 1%."
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "Variants with imputation quality of Rsq < 0.3 or minor allele frequency\n(MAF) < 1% were excluded\nThe details are described below\nhttps://doi.org/10.1038/s41588-024-01782-y"
+  },
+  {
+    "humVersionId": "hum0197-v20",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "SNP array data: \n      Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Asian ancestry using PCA. \n       Variant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project. \n      Post-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 1%. \nWGS:\n     We excluded variants with genotype call rate <90%, ExcessHet > 60, Hardy-Weinberg P<1.0×10−10\n     After imputation with Beagle v5.1, we excluded imputed variants with minor allele frequency < 1%."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Variants with imputation quality of Rsq < 0.3 or minor allele frequency\n(MAF) < 1% were excluded\nThe details are described below\nhttps://doi.org/10.1038/s41588-024-01782-y"
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "We conducted principal component analysis (PCA) against HapMap3 data using SNP data of the same individuals to confirm the East Asian genetic background."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Sample QC: Individuals were excluded if they showed conflicting sex assignments between genetically inferred sex by variants and WGS coverage, deviating heterozygosity rate (±3 standard deviations), or cryptic relatedness (pi-hat > 0.2). We included samples of the estimated Japanese ancestry using PCA. Four cases were excluded.\nVariant QC: We excluded (1) non-autosomal variants, (2) multi-allelic sites and spanning deletions, and (3) variants with P-value for Hardy?Weinberg equilibrium < 1e-10 in cases and < 1e-6 in controls."
+  },
+  {
+    "humVersionId": "hum0197-v21",
+    "value": "Sample QC: We excluded (i) individuals with lower call rates (< 99%), (ii) closely related individuals with genetic relatedness ≥ 0.178 calculated from a genetic related matrix (GRM) by GCTA (version 1.93.3beta2). We included samples of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (i) call rate < 99%, (ii) P value for Hardy-Weinberg equilibrium (HWE) < 1.0 × 10-6, (iii) number of heterozygotes < 5, and (iv) a concordance rate < 99.5% or a non-reference concordance rate between GWAS array and whole genome sequencing.\nafter association test: Double genomic control correction method using METAL was conducted. Computing Z score for each variant by considering the sign of the beta coefficient and the associated p-value, we left the variants with positive Z score."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "SNP array data: \n      Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Asian ancestry using PCA. \n       Variant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project. \n      Post-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 1%. \nWGS:\n     We excluded variants with genotype call rate <90%, ExcessHet > 60, Hardy-Weinberg P<1.0×10−10\n     After imputation with Beagle v5.1, we excluded imputed variants with minor allele frequency < 1%."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Variants with imputation quality of Rsq < 0.3 or minor allele frequency\n(MAF) < 1% were excluded\nThe details are described below\nhttps://doi.org/10.1038/s41588-024-01782-y"
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "We conducted principal component analysis (PCA) against HapMap3 data using SNP data of the same individuals to confirm the East Asian genetic background."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Sample QC: Individuals were excluded if they showed conflicting sex assignments between genetically inferred sex by variants and WGS coverage, deviating heterozygosity rate (±3 standard deviations), or cryptic relatedness (pi-hat > 0.2). We included samples of the estimated Japanese ancestry using PCA. Four cases were excluded.\nVariant QC: We excluded (1) non-autosomal variants, (2) multi-allelic sites and spanning deletions, and (3) variants with P-value for Hardy?Weinberg equilibrium < 1e-10 in cases and < 1e-6 in controls."
+  },
+  {
+    "humVersionId": "hum0197-v22",
+    "value": "Sample QC: We excluded (i) individuals with lower call rates (< 99%), (ii) closely related individuals with genetic relatedness ≥ 0.178 calculated from a genetic related matrix (GRM) by GCTA (version 1.93.3beta2). We included samples of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (i) call rate < 99%, (ii) P value for Hardy-Weinberg equilibrium (HWE) < 1.0 × 10-6, (iii) number of heterozygotes < 5, and (iv) a concordance rate < 99.5% or a non-reference concordance rate between GWAS array and whole genome sequencing.\nafter association test: Double genomic control correction method using METAL was conducted. Computing Z score for each variant by considering the sign of the beta coefficient and the associated p-value, we left the variants with positive Z score."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) and in close genetic relation (PI_HAT > 0.175). We included samples of the estimated East Asian ancestry.\nVariant QC: We excluded variants with (1) genotyping call rate < 98%, (2) P value for Hardy–Weinberg equilibrium < 1.0 × 10−6, and (3) minor allele count < 5, or (4) > 10% frequency difference with the imputation reference panel."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "BBJ: We included imputed variants with Rsq > 0.7.\nUK Biobank: We excluded the variants with (i) INFO score ≤ 0.8, (ii) MAF ≤ 0.0001 (except for missense and protein-truncating variants annotated by VEP, which were excluded if MAF ≤ 1 × 10-6), and (iii) PHWE ≤ 1 × 10-10.\nFinnGen: We excluded variants with an imputation INFO score < 0.8 or MAF < 0.0001."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "GWAS: We included imputed variants with Rsq > 0.7. For binary traits, variants with MAC < 10 were additionally excluded.\nFine-mapping: We defined fine-mapping regions based on a 3 Mb window around each lead variant and merged regions if they overlapped. We excluded the major histocompatibility complex (MHC) region (chr 6: 25–36 Mb) from analysis due to extensive LD structure in the region. For each method, we only included variants from successfully fine-mapped regions while excluding those from failed regions (e.g., due to conversion failure or available memory restrictions)."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "We performed adapter trimming using Cutadapt v1.8 and removed reads with a low quality score (Phred quality score < 20 in >20% of total bases) using fastp v0.20.0. Also, we removed reads with a length of >29 bp or <15 bp, which are not expected to be mature miRNAs. Mature miRNAs detected with ≥1 read in at least half of the individuals were included in the dataset."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "See JGAS000504 for read count data.\nWGS: We removed the variants (i)with low genotyping call rates (<0.90), (ii)with ExcessHet > 60 or (iii) with Hardy–Weinberg Pvalue < 1.0 × 10−10. Genotype refinement was performed using Beagle v5.1."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC: \nWe excluded individuals (i) with genotyping call rate < 0.97, (ii) in close kinship (PI_HAT > 0.17), and (iii) estimated of non-East Asian ancestry were excluded.\nVariant QC: \nWe excluded variants with (i) genotyping call rate < 0.99, (ii) minor allele count < 5, (iii) P value for Hardy–Weinberg equilibrium < 1.0 × 10−5 in controls, and (iv) > 10% allele frequency difference with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: \nWe excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "We excluded the variants with Rsq < 0.7 and MAF < 0.005."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC and Variant QC for each dataset: refer to ReadMe file\nWe excluded the variants with Rsq < 0.7 and MAF < 0.01."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "SNP array data: \n      Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Asian ancestry using PCA. \n       Variant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project. \n      Post-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 1%. \nWGS:\n     We excluded variants with genotype call rate <90%, ExcessHet > 60, Hardy-Weinberg P<1.0×10−10\n     After imputation with Beagle v5.1, we excluded imputed variants with minor allele frequency < 1%."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Variants with imputation quality of Rsq < 0.3 or minor allele frequency\n(MAF) < 1% were excluded\nThe details are described below\nhttps://doi.org/10.1038/s41588-024-01782-y"
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC: We excluded individuals with low genotyping call rates (call rate < 98%). We included individuals of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10^−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "We conducted principal component analysis (PCA) against HapMap3 data using SNP data of the same individuals to confirm the East Asian genetic background."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC: Individuals were excluded if they showed conflicting sex assignments between genetically inferred sex by variants and WGS coverage, deviating heterozygosity rate (±3 standard deviations), or cryptic relatedness (pi-hat > 0.2). We included samples of the estimated Japanese ancestry using PCA. Four cases were excluded.\nVariant QC: We excluded (1) non-autosomal variants, (2) multi-allelic sites and spanning deletions, and (3) variants with P-value for Hardy?Weinberg equilibrium < 1e-10 in cases and < 1e-6 in controls."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC: We excluded (i) individuals with lower call rates (< 99%), (ii) closely related individuals with genetic relatedness ≥ 0.178 calculated from a genetic related matrix (GRM) by GCTA (version 1.93.3beta2). We included samples of the estimated Japanese ancestry using PCA.\nVariant QC: We excluded variants with (i) call rate < 99%, (ii) P value for Hardy-Weinberg equilibrium (HWE) < 1.0 × 10-6, (iii) number of heterozygotes < 5, and (iv) a concordance rate < 99.5% or a non-reference concordance rate between GWAS array and whole genome sequencing.\nafter association test: Double genomic control correction method using METAL was conducted. Computing Z score for each variant by considering the sign of the beta coefficient and the associated p-value, we left the variants with positive Z score."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "Sample QC: We excluded samples with low genotyping call rates (call rate < 98%) or potential sex chromosome aneuploidy. We included only the individuals of the estimated East Asian ancestry using the principal component (PC) analysis, and then further restricted to those in Japanese Hondo (the main island of Japan) clusters.\nVariant QC: We excluded variants with (1) genotyping call rate < 99%, (2) minor allele count < 5, (3) P-value for Hardy–Weinberg equilibrium < 1.0 × 10−10, and (4) > 5% allele frequency difference compared with the imputation reference panel or the allele frequency panel of Tohoku Medical Megabank Project and in-house reference panel.\nPost-imputation QC: We excluded imputed variants with Rsq < 0.7 and minor allele frequency < 0.5%."
+  },
+  {
+    "humVersionId": "hum0197-v23",
+    "value": "GRCh38"
+  },
+  {
+    "humVersionId": "hum0200-v1",
+    "value": "cellranger-dna-1.1.0"
+  },
+  {
+    "humVersionId": "hum0200-v2",
+    "value": "cellranger-dna-1.1.0"
+  },
+  {
+    "humVersionId": "hum0200-v3",
+    "value": "cellranger-dna-1.1.0"
+  },
+  {
+    "humVersionId": "hum0200-v4",
+    "value": "cellranger-dna-1.1.0"
+  },
+  {
+    "humVersionId": "hum0200-v5",
+    "value": "cellranger-dna-1.1.0"
+  },
+  {
+    "humVersionId": "hum0200-v6",
+    "value": "cellranger-dna-1.1.0"
+  },
+  {
+    "humVersionId": "hum0201-v8",
+    "value": "FRiP score"
+  },
+  {
+    "humVersionId": "hum0207-v1",
+    "value": "adapter trimming: cutadapt, quality trimming: fastxtoolkit (bases with quality score < 20 were excluded, reads with base number < 50 were excluded, reads including 20% or more of bases with quality score < 20 were excluded)"
+  },
+  {
+    "humVersionId": "hum0207-v1",
+    "value": "adapter trimming: cutadapt, quality trimming: fastxtoolkit (bases with quality score < 20 were excluded, reads with base number < 50 were excluded, reads including 20% or more of bases with quality score < 20 were excluded)"
+  },
+  {
+    "humVersionId": "hum0207-v1",
+    "value": "performed at \"juicer\" software"
+  },
+  {
+    "humVersionId": "hum0207-v1",
+    "value": "SNP call rate > 0.99, HWE < 1 × 10-6, sample call rate > 0.98"
+  },
+  {
+    "humVersionId": "hum0209-v1",
+    "value": "SNP loci with copy number variation and loci on the sex chromosome were excluded from the analyses."
+  },
+  {
+    "humVersionId": "hum0214-v1",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v2",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v2",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v3",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v3",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v3",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v3",
+    "value": "WGS data processing was performed based on the standardized best-practice method proposed by GATK (v 4.0.6.0). Samples with genotyping call rates < 99% were removed. We used BEAGLE (v 5.1) to impute missing genotypes. Variants with call rate < 85%, HWE P-value < 1.0 x 10-6 or minor allele frequency < 1% were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v4",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v4",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v4",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v4",
+    "value": "WGS data processing was performed based on the standardized best-practice method proposed by GATK (v 4.0.6.0). Samples with genotyping call rates < 99% were removed. We used BEAGLE (v 5.1) to impute missing genotypes. Variants with call rate < 85%, HWE P-value < 1.0 x 10-6 or minor allele frequency < 1% were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v4",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v5",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v5",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v5",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v5",
+    "value": "WGS data processing was performed based on the standardized best-practice method proposed by GATK (v 4.0.6.0). Samples with genotyping call rates < 99% were removed. We used BEAGLE (v 5.1) to impute missing genotypes. Variants with call rate < 85%, HWE P-value < 1.0 x 10-6 or minor allele frequency < 1% were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v5",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v5",
+    "value": "FASTQ files were aligned to the human genome (GRCh38; GenBank assembly GCA_000001405.18) using STAR (v2.5). HTSeq-count (v0.6.1) was used to generate gene counts. In the quality-control analysis, low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). As the level of mitochondrial transcription is an indicator of cell stress, we applied a cutoff percentage of mitochondrial gene transcripts of < 8%. For detecting outlier samples, Spearman’s correlation for each subset was calculated, and samples with an average r2 < 0.8 were omitted as outliers."
+  },
+  {
+    "humVersionId": "hum0214-v6",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v6",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v6",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v6",
+    "value": "WGS data processing was performed based on the standardized best-practice method proposed by GATK (v 4.0.6.0). Samples with genotyping call rates < 99% were removed. We used BEAGLE (v 5.1) to impute missing genotypes. Variants with call rate < 85%, HWE P-value < 1.0 x 10-6 or minor allele frequency < 1% were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v6",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v6",
+    "value": "FASTQ files were aligned to the human genome (GRCh38; GenBank assembly GCA_000001405.18) using STAR (v2.5). HTSeq-count (v0.6.1) was used to generate gene counts. In the quality-control analysis, low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). As the level of mitochondrial transcription is an indicator of cell stress, we applied a cutoff percentage of mitochondrial gene transcripts of < 8%. For detecting outlier samples, Spearman’s correlation for each subset was calculated, and samples with an average r2 < 0.8 were omitted as outliers."
+  },
+  {
+    "humVersionId": "hum0214-v6",
+    "value": "Adaptor sequences were trimmed using Cutadapt and reads containing low-quality bases (Phred quality score < 20 in > 20% of the bases) were removed. Reads were aligned to the human genome within the UCSC Genome Browser (GRCh38) using STAR, and expression was counted with HTSeq. Samples with uniquely mapped read rates < 80% or unique read counts < 5 × 106 were excluded. We calculated Spearman’s correlations of the expressions between two samples from the same cell type and then removed the samples with mean correlation coefficients < 0.9. In addition, samples with the genotype concordance rates"
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "WGS data processing was performed based on the standardized best-practice method proposed by GATK (v 4.0.6.0). Samples with genotyping call rates < 99% were removed. We used BEAGLE (v 5.1) to impute missing genotypes. Variants with call rate < 85%, HWE P-value < 1.0 x 10-6 or minor allele frequency < 1% were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "FASTQ files were aligned to the human genome (GRCh38; GenBank assembly GCA_000001405.18) using STAR (v2.5). HTSeq-count (v0.6.1) was used to generate gene counts. In the quality-control analysis, low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). As the level of mitochondrial transcription is an indicator of cell stress, we applied a cutoff percentage of mitochondrial gene transcripts of < 8%. For detecting outlier samples, Spearman’s correlation for each subset was calculated, and samples with an average r2 < 0.8 were omitted as outliers."
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "Adaptor sequences were trimmed using Cutadapt and reads containing low-quality bases (Phred quality score < 20 in > 20% of the bases) were removed. Reads were aligned to the human genome within the UCSC Genome Browser (GRCh38) using STAR, and expression was counted with HTSeq. Samples with uniquely mapped read rates < 80% or unique read counts < 5 × 106 were excluded. We calculated Spearman’s correlations of the expressions between two samples from the same cell type and then removed the samples with mean correlation coefficients < 0.9. In addition, samples with the genotype concordance rates"
+  },
+  {
+    "humVersionId": "hum0214-v7",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than the mean – 2SD were removed."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "WGS data processing was performed based on the standardized best-practice method proposed by GATK (v 4.0.6.0). Samples with genotyping call rates < 99% were removed. We used BEAGLE (v 5.1) to impute missing genotypes. Variants with call rate < 85%, HWE P-value < 1.0 x 10-6 or minor allele frequency < 1% were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "FASTQ files were aligned to the human genome (GRCh38; GenBank assembly GCA_000001405.18) using STAR (v2.5). HTSeq-count (v0.6.1) was used to generate gene counts. In the quality-control analysis, low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). As the level of mitochondrial transcription is an indicator of cell stress, we applied a cutoff percentage of mitochondrial gene transcripts of < 8%. For detecting outlier samples, Spearman’s correlation for each subset was calculated, and samples with an average r2 < 0.8 were omitted as outliers."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "Adaptor sequences were trimmed using Cutadapt and reads containing low-quality bases (Phred quality score < 20 in > 20% of the bases) were removed. Reads were aligned to the human genome within the UCSC Genome Browser (GRCh38) using STAR, and expression was counted with HTSeq. Samples with uniquely mapped read rates < 80% or unique read counts < 5 × 106 were excluded. We calculated Spearman’s correlations of the expressions between two samples from the same cell type and then removed the samples with mean correlation coefficients < 0.9. In addition, samples with the genotype concordance rates"
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than the mean – 2SD were removed."
+  },
+  {
+    "humVersionId": "hum0214-v8",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed.Samples with more than 500 unique CDR-H3 sequences were used for the analysis."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "WGS data processing was performed based on the standardized best-practice method proposed by GATK (v 4.0.6.0). Samples with genotyping call rates < 99% were removed. We used BEAGLE (v 5.1) to impute missing genotypes. Variants with call rate < 85%, HWE P-value < 1.0 x 10-6 or minor allele frequency < 1% were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than 0.9 were removed."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "FASTQ files were aligned to the human genome (GRCh38; GenBank assembly GCA_000001405.18) using STAR (v2.5). HTSeq-count (v0.6.1) was used to generate gene counts. In the quality-control analysis, low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). As the level of mitochondrial transcription is an indicator of cell stress, we applied a cutoff percentage of mitochondrial gene transcripts of < 8%. For detecting outlier samples, Spearman’s correlation for each subset was calculated, and samples with an average r2 < 0.8 were omitted as outliers."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "Adaptor sequences were trimmed using Cutadapt and reads containing low-quality bases (Phred quality score < 20 in > 20% of the bases) were removed. Reads were aligned to the human genome within the UCSC Genome Browser (GRCh38) using STAR, and expression was counted with HTSeq. Samples with uniquely mapped read rates < 80% or unique read counts < 5 × 106 were excluded. We calculated Spearman’s correlations of the expressions between two samples from the same cell type and then removed the samples with mean correlation coefficients < 0.9. In addition, samples with the concordance rates between RNA-seq-based genotype and WGS-based genotype at the heterozygous loci < 0.9 were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than the mean – 2SD were removed."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "The adaptor sequences and 3’ low quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low quality bases (Phred quality score < 20 in > 20% of the bases) were removed.Samples with more than 500 unique CDR-H3 sequences were used for the analysis."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "From sequenced reads, adaptor sequences were trimmed using cutadapt (v1.16). In addition, 3′- ends with low-quality bases (Phred quality score < 20) were trimmed using the fastx-toolkit (v0.0.14). Reads containing more than 20% low-quality bases were removed. Subsequently, reads were aligned against the GRCh38 reference sequence using STAR (v2.5.3) in two-pass mode with Gencode version 27 annotations. We excluded samples with uniquely mapped read rates < 90% (with the exception of < 70% for plasmablasts and <85% for the other B cell subsets) or unique read counts < 6 × 10^6. Expression was quantified using HTSeq (v 0.11.2.). For QC of the expression data, in each cell population, we filtered low count genes (< 10 in > 90% of samples), normalized between samples with a trimmed mean of M values (TMM) implemented in edgeR software, converted to log-transformed count per million (CPM), removed batch effects using ComBat software and computed inter-sample Spearman’s correlations of expression levels between each sample and the remaining samples from the same cell subset. We excluded samples with mean correlation coefficients less than 0.9."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "Adaptor sequences were trimmed using Cutadapt and reads containing low-quality bases (Phred quality score < 20 in > 20% of the bases) were removed. Reads were aligned to the human genome within the UCSC Genome Browser (GRCh38) using STAR, and expression was counted with HTSeq. Samples with uniquely mapped read rates < 80% or unique read counts < 5 × 106 were excluded. We calculated Spearman’s correlations of the expressions between two samples from the same cell type and then removed the samples with mean correlation coefficients < 0.9. In addition, samples with the concordance rates between RNA-seq-based genotype and WGS-based genotype at the heterozygous loci < 0.9 were excluded."
+  },
+  {
+    "humVersionId": "hum0214-v9",
+    "value": "For gene detection, a range of 500-3,500 genes from a peripheral blood sample, 1,500-5,500 genes from muscle biopsy samples, 1,000-5,500 genes from bronchoalveolar lavage fluid samples, and less than 5% of cells from mitochondrial genes were analyzed."
+  },
+  {
+    "humVersionId": "hum0215-v1",
+    "value": "FastQC (ver. 0.11.7) and Cutadapt (ver. 1.16)"
+  },
+  {
+    "humVersionId": "hum0218-v1",
+    "value": "The sequencing primer, poly-A, and poly-T were trimmed by Cutadapt and low-quality ends (phred quality score < 25) were also trimmed. After trimming, the read (the length of which was < 20 bases) was also removed."
+  },
+  {
+    "humVersionId": "hum0223-v1",
+    "value": "TaqMan® Assay"
+  },
+  {
+    "humVersionId": "hum0233-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0233-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0233-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0233-v1",
+    "value": "high mapping efficiency (58.3%)"
+  },
+  {
+    "humVersionId": "hum0237-v1",
+    "value": "Sample QCs: (1) sex inconsistencies (--check-sex), (2) inbreeding coefficient (--het 0.1), (3) genotype missingness (--missing 0.05), (4) kinship coefficient (--genome 0.2) and (5) exclusion of outliers from the clusters of East Asian populations in principal component analysis that was conducted together with 1000 Genomes Phase 3 data.\nMarker (SNPs and Indels) QCs: (1) genotyping efficiency or call rate (--geno 0.95), (2) minor allele frequency (--freq 0.001), (3) Hardy-Weinberg equilibrium (--hwe 0.001)."
+  },
+  {
+    "humVersionId": "hum0248-v1",
+    "value": "PacBio: QC with Falcon software with length_cutoff = 9000, length_cutoff_pr = 15000\nBionano: QC with BionanoSolve software with default settings\nIllumina: NA"
+  },
+  {
+    "humVersionId": "hum0248-v2",
+    "value": "PacBio: QC with Falcon software with length_cutoff = 9000, length_cutoff_pr = 15000\nBionano: QC with BionanoSolve software with default settings\nIllumina: NA"
+  },
+  {
+    "humVersionId": "hum0261-v1",
+    "value": "HWE: P≥10^-6、Imputation info score: ≥ 0.5\nIndividuals call rate ≥ 98%, SNPs call rate ≥ 98%, MAF ≥ 1%"
+  },
+  {
+    "humVersionId": "hum0261-v2",
+    "value": "HWE: P≥10^-6、Imputation info score: ≥ 0.5\nIndividuals call rate ≥ 98%, SNPs call rate ≥ 98%, MAF ≥ 1%"
+  },
+  {
+    "humVersionId": "hum0261-v2",
+    "value": "Sample QCs: sample call rate < 0.97, closely related samples by PRIMUS (PI_HAT > 0.09375), outlier from Japanese cluster by PCA (Smirnov‐Grubbs test with a Bonferroni corrected P < 0.05)\nSNP QCs: SNP call rate < 0.99, HWE P < 0.0001, MAF < 0.05"
+  },
+  {
+    "humVersionId": "hum0264-v1",
+    "value": "SNP call rate < 0.97, HWE P < 0.001, MAF < 0.05, non-autosomal chromosomes"
+  },
+  {
+    "humVersionId": "hum0264-v2",
+    "value": "SNP call rate < 0.97, HWE P < 0.001, MAF < 0.05, non-autosomal chromosomes"
+  },
+  {
+    "humVersionId": "hum0289-v1",
+    "value": "NovaSeq Control Software v1.6.0\nReal Time Analysis (RTA) v3.4.4\nbcl2fastq2 v2.20"
+  },
+  {
+    "humVersionId": "hum0289-v1",
+    "value": "NovaSeq Control Software v1.6.0\nReal Time Analysis (RTA) v3.4.4\nbcl2fastq2 v2.20"
+  },
+  {
+    "humVersionId": "hum0289-v1",
+    "value": "GenomeStudio Software V2011.1\nMethylation Module 1.9.0"
+  },
+  {
+    "humVersionId": "hum0311-v2",
+    "value": "Before imputation, we excluded SNPs using the following criteria:\n    - Heterozygosity count for each chip < 5\n    - P-value for Hardy–Weinberg equilibrium (HWE) for each chip < 1.0 x 10^-6 *\n    - Genotype concordance rate with whole-genome sequencing (WGS) for 939 samples < 99.5% and its non-reference discordance rate >= 0.5%\n    - Lower call rate SNPs if the position was the same when merging datasets\n    - Call rate < 99%\n   * P-values for chrX SNPs were calculated by using female samples\nWe also excluded samples using the following criteria ：\n   - Call Rate < 98%\n   - Samples whose inferred sex was not matched with the clinical information\n   - Lower call rate samples for duplicated or monozygotic twin in the dataset\n   - Outliers from East Asian clusters from principal component analysis with 1KGp3v5 samples."
+  },
+  {
+    "humVersionId": "hum0311-v3",
+    "value": "Before imputation, we excluded SNPs using the following criteria:\n    - Heterozygosity count for each chip < 5\n    - P-value for Hardy–Weinberg equilibrium (HWE) for each chip < 1.0 x 10^-6 *\n    - Genotype concordance rate with whole-genome sequencing (WGS) for 939 samples < 99.5% and its non-reference discordance rate >= 0.5%\n    - Lower call rate SNPs if the position was the same when merging datasets\n    - Call rate < 99%\n   * P-values for chrX SNPs were calculated by using female samples\nWe also excluded samples using the following criteria ：\n   - Call Rate < 98%\n   - Samples whose inferred sex was not matched with the clinical information\n   - Lower call rate samples for duplicated or monozygotic twin in the dataset\n   - Outliers from East Asian clusters from principal component analysis with 1KGp3v5 samples."
+  },
+  {
+    "humVersionId": "hum0311-v4",
+    "value": "Before imputation, we excluded SNPs using the following criteria:\n    - Heterozygosity count for each chip < 5\n    - P-value for Hardy–Weinberg equilibrium (HWE) for each chip < 1.0 x 10^-6 *\n    - Genotype concordance rate with whole-genome sequencing (WGS) for 939 samples < 99.5% and its non-reference discordance rate >= 0.5%\n    - Lower call rate SNPs if the position was the same when merging datasets\n    - Call rate < 99%\n   * P-values for chrX SNPs were calculated by using female samples\nWe also excluded samples using the following criteria ：\n   - Call Rate < 98%\n   - Samples whose inferred sex was not matched with the clinical information\n   - Lower call rate samples for duplicated or monozygotic twin in the dataset\n   - Outliers from East Asian clusters from principal component analysis with 1KGp3v5 samples."
+  },
+  {
+    "humVersionId": "hum0311-v5",
+    "value": "Before imputation, we excluded SNPs using the following criteria:\n    - Heterozygosity count for each chip < 5\n    - P-value for Hardy–Weinberg equilibrium (HWE) for each chip < 1.0 x 10^-6 *\n    - Genotype concordance rate with whole-genome sequencing (WGS) for 939 samples < 99.5% and its non-reference discordance rate >= 0.5%\n    - Lower call rate SNPs if the position was the same when merging datasets\n    - Call rate < 99%\n   * P-values for chrX SNPs were calculated by using female samples\nWe also excluded samples using the following criteria ：\n   - Call Rate < 98%\n   - Samples whose inferred sex was not matched with the clinical information\n   - Lower call rate samples for duplicated or monozygotic twin in the dataset\n   - Outliers from East Asian clusters from principal component analysis with 1KGp3v5 samples."
+  },
+  {
+    "humVersionId": "hum0311-v5",
+    "value": "Variants with imputation quality (Rsq) < 0.3 or MAC < 20 were excluded \n*Sample QC and Variant QC were described in the Dictionary file"
+  },
+  {
+    "humVersionId": "hum0311-v6",
+    "value": "Before imputation, we excluded SNPs using the following criteria:\n    - Heterozygosity count for each chip < 5\n    - P-value for Hardy–Weinberg equilibrium (HWE) for each chip < 1.0 x 10^-6 *\n    - Genotype concordance rate with whole-genome sequencing (WGS) for 939 samples < 99.5% and its non-reference discordance rate >= 0.5%\n    - Lower call rate SNPs if the position was the same when merging datasets\n    - Call rate < 99%\n   * P-values for chrX SNPs were calculated by using female samples\nWe also excluded samples using the following criteria ：\n   - Call Rate < 98%\n   - Samples whose inferred sex was not matched with the clinical information\n   - Lower call rate samples for duplicated or monozygotic twin in the dataset\n   - Outliers from East Asian clusters from principal component analysis with 1KGp3v5 samples."
+  },
+  {
+    "humVersionId": "hum0311-v6",
+    "value": "Variants with imputation quality (Rsq) < 0.3 or MAC < 20 were excluded \n*Sample QC and Variant QC were described in the Dictionary file"
+  },
+  {
+    "humVersionId": "hum0331-v1",
+    "value": "Whole genome sequencing analysis was performed under the following conditions.\n- Confirm library size is 400bp-750bp.\n- At least 75% of the bases are QV30 or better.\n- Total number of bases after removal of duplicate reads by FASTQC is more than 90 GBase. \n \nAfter alignment and variant calling, the following samples were excluded from the analysis. \n- Samples with abnormal values for depth and mapping rate.\n- Samples where the depth of the sex chromosome is inconsistent with the clinical information.\n- Any of the samples determined to be within the second degree of kinship in the KING program.\n \nVariant call results were filtered for the following\n- Genotypes with GQ64 or with less than 25% minor alleles in heterozygous calls are set to no call\n- Set VQSR results to FILTER field in VCF\n- Set LowCR in FILTER field for variants with less than 95% call rate\n- Variants with a Hardy-Weinberg equilibrium test P-value less than 10-6 have HWE set in FILTER field"
+  },
+  {
+    "humVersionId": "hum0343-v1",
+    "value": "Sample QC: We excluded samples with\n      (1) sample call rate < 0.97\n      (2) excess heterozygosity of genotypes > mean + 3SD\n      (3) related samples with PI_HAT > 0.175\n      (4) outlier samples from East Asian clusters in principal component analysis with 1000 Genomes Project samples.\nGenotyping QC: We excluded variants with \n      (1) variant call rate < 0.99\n      (2) significant call rate differences between cases and controls with P < 5.0×10-8\n      (3) deviation from Hardy-Weinberg equilibrium with P < 1.0×10-6\n      (4) minor allele count < 5\nImputation QC: MAF ≥ 0.1% and imputation score (Rsq) > 0.5"
+  },
+  {
+    "humVersionId": "hum0343-v1",
+    "value": "median transcripts per kilobase million (TPM) > 10"
+  },
+  {
+    "humVersionId": "hum0343-v2",
+    "value": "Sample QC: We excluded samples with\n      (1) sample call rate < 0.97\n      (2) excess heterozygosity of genotypes > mean + 3SD\n      (3) related samples with PI_HAT > 0.175\n      (4) outlier samples from East Asian clusters in principal component analysis with 1000 Genomes Project samples.\nGenotyping QC: We excluded variants with \n      (1) variant call rate < 0.99\n      (2) significant call rate differences between cases and controls with P < 5.0×10-8\n      (3) deviation from Hardy-Weinberg equilibrium with P < 1.0×10-6\n      (4) minor allele count < 5\nImputation QC: MAF ≥ 0.1% and imputation score (Rsq) > 0.5"
+  },
+  {
+    "humVersionId": "hum0343-v2",
+    "value": "median transcripts per kilobase million (TPM) > 10"
+  },
+  {
+    "humVersionId": "hum0343-v2",
+    "value": "Following GTEx pipeline (https://github.com/broadinstitute/gtex-pipeline/)"
+  },
+  {
+    "humVersionId": "hum0343-v3",
+    "value": "Sample QC: We excluded samples with\n      (1) sample call rate < 0.97\n      (2) excess heterozygosity of genotypes > mean + 3SD\n      (3) related samples with PI_HAT > 0.175\n      (4) outlier samples from East Asian clusters in principal component analysis with 1000 Genomes Project samples.\nGenotyping QC: We excluded variants with \n      (1) variant call rate < 0.99\n      (2) significant call rate differences between cases and controls with P < 5.0×10-8\n      (3) deviation from Hardy-Weinberg equilibrium with P < 1.0×10-6\n      (4) minor allele count < 5\nImputation QC: MAF ≥ 0.1% and imputation score (Rsq) > 0.5"
+  },
+  {
+    "humVersionId": "hum0343-v3",
+    "value": "median transcripts per kilobase million (TPM) > 10"
+  },
+  {
+    "humVersionId": "hum0343-v3",
+    "value": "Following GTEx pipeline (https://github.com/broadinstitute/gtex-pipeline/)"
+  },
+  {
+    "humVersionId": "hum0343-v3",
+    "value": "Transcripts per kilobase million (TPM) ≥0.1 in ≥20% samples\nRead count ≥6 in ≥20% samples"
+  },
+  {
+    "humVersionId": "hum0343-v3",
+    "value": "Following GTEx pipeline (https://github.com/broadinstitute/gtex-pipeline/)"
+  },
+  {
+    "humVersionId": "hum0343-v4",
+    "value": "Sample QC: We excluded samples with\n      (1) sample call rate < 0.97\n      (2) excess heterozygosity of genotypes > mean + 3SD\n      (3) related samples with PI_HAT > 0.175\n      (4) outlier samples from East Asian clusters in principal component analysis with 1000 Genomes Project samples.\nGenotyping QC: We excluded variants with \n      (1) variant call rate < 0.99\n      (2) significant call rate differences between cases and controls with P < 5.0×10-8\n      (3) deviation from Hardy-Weinberg equilibrium with P < 1.0×10-6\n      (4) minor allele count < 5\nImputation QC: MAF ≥ 0.1% and imputation score (Rsq) > 0.5"
+  },
+  {
+    "humVersionId": "hum0343-v4",
+    "value": "median transcripts per kilobase million (TPM) > 10"
+  },
+  {
+    "humVersionId": "hum0343-v4",
+    "value": "Following GTEx pipeline (https://github.com/broadinstitute/gtex-pipeline/)"
+  },
+  {
+    "humVersionId": "hum0343-v4",
+    "value": "Transcripts per kilobase million (TPM) ≥0.1 in ≥20% samples\nRead count ≥6 in ≥20% samples"
+  },
+  {
+    "humVersionId": "hum0343-v4",
+    "value": "Following GTEx pipeline (https://github.com/broadinstitute/gtex-pipeline/)"
+  },
+  {
+    "humVersionId": "hum0343-v4",
+    "value": "We conducted principal component analysis (PCA) against HapMap3 data using SNP data of the same individuals to confirm the East Asian genetic background."
+  },
+  {
+    "humVersionId": "hum0347-v2",
+    "value": "Exclude the following conditions:\nSample QCs:\n(1) overall call rates < 0.97\n(2) relatives (PI_HAT > 0.1875)\n(3) outliers from Japanese cluster by principal component analysis\nSNP QCs:\n(1) SNP call rate < 0.99\n(2) HWE P < 0.0001\n(3) MAF < 0.05\n(4) located in sex chromosomes or mitochondria"
+  },
+  {
+    "humVersionId": "hum0348-v1",
+    "value": "ADM-2 algorithm, Threshokd value: 5.5"
+  },
+  {
+    "humVersionId": "hum0351-v1",
+    "value": "- Removal of primers by FASTXToolkit\n- Removal of low quality by sickle"
+  },
+  {
+    "humVersionId": "hum0355-v1",
+    "value": "nSolver analysis software v4.0.70"
+  },
+  {
+    "humVersionId": "hum0364-v1",
+    "value": "MS covered by less than ten reads were considered insufficient depth, and we excluded samples if more than 4% had insufficient depth of MS."
+  },
+  {
+    "humVersionId": "hum0366-v1",
+    "value": "Cells with less than 1,000 UMIs or more than 20,000 UMIs, and cells containing more than 10% reads from mitochondrial or hemoglobin genes, were filtered. Furthermore, for each sample, doublets identified by Scrublet were removed."
+  },
+  {
+    "humVersionId": "hum0366-v1",
+    "value": "Low-quality (<20) bases and adaptor sequences were trimmed with Trimmomatic software (version 0.38) with the following parameters: ILLUMINACLIP: path/to/adapter.fa:2:30:10 LEADING:20 TRAILING:20 SLIDINGWINDOW:4:15 MINLEN:36."
+  },
+  {
+    "humVersionId": "hum0366-v1",
+    "value": "Low-quality (<20) bases and adaptor sequences were trimmed with Trimmomatic software (version 0.38) with the following parameters: ILLUMINACLIP: path/to/adapter.fa:2:30:10 LEADING:20 TRAILING:20 SLIDINGWINDOW:4:15 MINLEN:36."
+  },
+  {
+    "humVersionId": "hum0383-v1",
+    "value": "The adaptor sequences and 3’ low-quality bases (Phred quality score < 20) were trimmed. Short reads (< 50bp) and reads containing many low-quality bases (Phred quality score < 20 in > 20% of the bases) were removed. If the uniquely mapped rate was less than 80%, or the number of uniquely mapped reads was 5.00 x 106 reads, the sample was removed before further analysis. The correlation coefficient of the expression data between two samples belonging to the same cell subset and calculated the average of the correlation coefficient (Di). Samples for which Di was less than the mean – 2SD were removed."
+  },
+  {
+    "humVersionId": "hum0393-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0394-v1",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0394-v2",
+    "value": "-"
+  },
+  {
+    "humVersionId": "hum0406-v1",
+    "value": "RSeQC package"
+  },
+  {
+    "humVersionId": "hum0416-v1",
+    "value": "Cell Ranger Metrics"
+  },
+  {
+    "humVersionId": "hum0416-v2",
+    "value": "Cell Ranger Metrics"
+  },
+  {
+    "humVersionId": "hum0416-v2",
+    "value": "Cell Ranger Metrics"
+  },
+  {
+    "humVersionId": "hum0416-v3",
+    "value": "Cell Ranger Metrics"
+  },
+  {
+    "humVersionId": "hum0416-v3",
+    "value": "Cell Ranger Metrics"
+  },
+  {
+    "humVersionId": "hum0435-v1",
+    "value": "Cutadapt (mappa/hanta pipeline)"
+  },
+  {
+    "humVersionId": "hum0442-v1",
+    "value": "Read count and TPM data calculated after adapter trimming of fastq files."
+  },
+  {
+    "humVersionId": "hum0460-v1",
+    "value": "Genomon 2.6.3"
+  },
+  {
+    "humVersionId": "hum0466-v1",
+    "value": "Sample QC: Gender discrepancy, sample call rate <98%, close relatives, and outliers (distance > 10sd short, 11sd long) were excluded.\nGenotyping QC: Hardy-Weinberg equilibrium >1.0x10-6, call rate >99%, monomorphic, minor allele count <5, and frequency difference >6% with reference panel were excluded.\nPost-imputation QC: Variants with minor allele frequency (MAF) <0.5% and Rsq <0.7 were excluded."
+  },
+  {
+    "humVersionId": "hum0467-v1",
+    "value": "Sample QC: sample call rates ≧ 0.98\nGenotyping QC: SNP call rate ≧ 0.98 (OBi, POP) or 0.99 (BBJ), MAF ≧ 0.01, p-values for Hardy–Weinberg equilibrium (HWE) test ≧ 1×10-6\nImputation QC: MAF ≥ 0.005 and imputation score (Rsq) ≥ 0.7"
+  },
+  {
+    "humVersionId": "hum0469-v1",
+    "value": "the following criteria were excluded:\n- Number of expressed genes: < 1000 or > 4000\n- Total count of gene expression:  < 2000 or > 10,000\n- Mitochondrial gene expression percentage: > 10% \n- TCR fragment genes"
+  },
+  {
+    "humVersionId": "hum0477-v1",
+    "value": "FastQC"
+  },
+  {
+    "humVersionId": "hum0481-v1",
+    "value": "FastQC (ver. 0.11.7), Cutadapt (ver. 1.16)"
+  },
+  {
+    "humVersionId": "hum0495-v1",
+    "value": "Sample QC: \n(1) Sample call rate < 0.97\n(2) Samples with sex mismatches were excluded.\n(3) One sample for each pair of second degree or closer relatives (kinship coefficient >0.088) was removed.\n(4) Samples with outliers in sample size, heterozygosity and missing rates were excluded.\nVariant QC: \n(1) genotype quality >= 20\n(2) depth >=10\n(3) allele balance\n(4) variant call rate >= 0.97\n(5) Hardy‒Weinberg equilibrium P-values >1 × 10−8\n(6) PCA"
+  },
+  {
+    "humVersionId": "hum0496-v1",
+    "value": "Sample QC: sample call rate ≧0.98\nGenotyping QC: SNP call rate ≧ 0.98, MAF ≧ 0.01, p-values for Hardy–Weinberg equilibrium (HWE) test > 1×10−6\nImputation QC: MAF ≧ 0.005, Rsq ≧ 0.7"
+  }
+]
