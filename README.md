@@ -36,9 +36,9 @@ docker compose exec app bash
 python3 ./humandbs_llm_test/<something_script_file>.py
 
 # e.g.,
-python3 ./humandbs_llm_test/phi2.py
+python3 ./humandbs_llm_test/local_llm.py
 ```
 
 ## Memo
 
-- phi2 は、あまりうまくいかなかった
+- phi2, llama は、あまりうまくいかなかった

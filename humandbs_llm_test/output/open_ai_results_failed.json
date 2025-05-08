@@ -1,0 +1,385 @@
+[
+  {
+    "humVersionId": "hum0006-v2",
+    "raw_text": "HumanMethylation450_15017482_v1.1 (bpm)",
+    "platform": "HumanMethylation450",
+    "method": "bpm",
+    "tool": "v1.1"
+  },
+  {
+    "humVersionId": "hum0006-v3",
+    "raw_text": "HumanMethylation450_15017482_v1.1 (bpm)",
+    "platform": "HumanMethylation450",
+    "method": "bpm",
+    "tool": "v1.1"
+  },
+  {
+    "humVersionId": "hum0006-v4",
+    "raw_text": "HumanMethylation450_15017482_v1.1 (bpm)",
+    "platform": "HumanMethylation450",
+    "method": "bpm",
+    "tool": "v1.1"
+  },
+  {
+    "humVersionId": "hum0006-v5",
+    "raw_text": "HumanMethylation450_15017482_v1.1 (bpm)",
+    "platform": "HumanMethylation450",
+    "method": "bpm",
+    "tool": "v1.1"
+  },
+  {
+    "humVersionId": "hum0009-v2",
+    "raw_text": "Bisulfite conversion rates were estimated using reads that uniquely aligned to the lambda phage genome and were >99% for all samples."
+  },
+  {
+    "humVersionId": "hum0009-v3",
+    "raw_text": "Bisulfite conversion rates were estimated using reads that uniquely aligned to the lambda phage genome and were >99% for all samples."
+  },
+  {
+    "humVersionId": "hum0012-v1",
+    "raw_text": "Surrounding sequences of each probe were aligned by using of BLAST algorithm.\n(Probes for copy number variants, unmapped probes, and multi-mapped probes were removed.)",
+    "method": "BLAST algorithm",
+    "notes": "Probes for copy number variants, unmapped probes, and multi-mapped probes were removed."
+  },
+  {
+    "humVersionId": "hum0013-v1",
+    "raw_text": "Call Rate ≧ 0.95 and HWE ≧ 0.001",
+    "call_rate_threshold": "≧ 0.95",
+    "HWE_threshold": "≧ 0.001"
+  },
+  {
+    "humVersionId": "hum0015-v1",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0015-v2",
+    "raw_text": "quantitative MiSeq (doi: 10.1016/j.ab.2014.08.015)",
+    "platform": "quantitative MiSeq",
+    "doi": "10.1016/j.ab.2014.08.015"
+  },
+  {
+    "humVersionId": "hum0015-v3",
+    "raw_text": "quantitative MiSeq (doi: 10.1016/j.ab.2014.08.015)",
+    "platform": "quantitative MiSeq",
+    "doi": "10.1016/j.ab.2014.08.015"
+  },
+  {
+    "humVersionId": "hum0028-v1",
+    "raw_text": "Sample Call Rate < 0.98, SNP Call Rate < 0.99, HWE-P < 1x10^-6",
+    "sample_call_rate_threshold": "< 0.98",
+    "SNP_call_rate_threshold": "< 0.99",
+    "HWE_P_threshold": "< 1x10^-6"
+  },
+  {
+    "humVersionId": "hum0028-v2",
+    "raw_text": "Sample Call Rate < 0.98, SNP Call Rate < 0.99, HWE-P < 1x10^-6",
+    "sample_call_rate_threshold": "< 0.98",
+    "SNP_call_rate_threshold": "< 0.99",
+    "HWE_P_threshold": "< 1x10^-6"
+  },
+  {
+    "humVersionId": "hum0029-v1",
+    "raw_text": "Sample Call rate < 0.95, SNP call rate < 0.97, HWE P < 0.001",
+    "sample_call_rate_threshold": "< 0.95",
+    "SNP_call_rate_threshold": "< 0.97",
+    "HWE_P_threshold": "< 0.001"
+  },
+  {
+    "humVersionId": "hum0029-v2",
+    "raw_text": "variant call rates < 95%, MAF < 1%, or HWE p-value < 1×10^-5",
+    "variant_call_rate_threshold": "< 95%",
+    "MAF_threshold": "< 1%",
+    "HWE_P_threshold": "< 1×10^-5"
+  },
+  {
+    "humVersionId": "hum0030-v2",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0030-v3",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0035-v2",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0035-v3",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0035-v4",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0035-v5",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0042-v1",
+    "raw_text": "Sample Call rate ≤ 0.98, SNP call rate ≤ 0.98, MAF ≤ 3%, HWE P < 1 x 10^-6",
+    "sample_call_rate_threshold": "≤ 0.98",
+    "SNP_call_rate_threshold": "≤ 0.98",
+    "MAF_threshold": "≤ 3%",
+    "HWE_P_threshold": "< 1 x 10^-6"
+  },
+  {
+    "humVersionId": "hum0053-v2",
+    "raw_text": "default of 10x genomics SV-calling algorithms",
+    "algorithm": "10x genomics SV-calling"
+  },
+  {
+    "humVersionId": "hum0055-v1",
+    "raw_text": "Probes as shown below were excluded:\nwith intensities indistinguishable from the background (detection P-value > 0.05) in more than one sample\nwith a bead count < 3 in at least 5 % of samples\nincluding any SNPs \ncross-reactive",
+    "exclusion_criteria": [
+      "intensities indistinguishable from the background (detection P-value > 0.05) in more than one sample",
+      "bead count < 3 in at least 5 % of samples",
+      "including any SNPs",
+      "cross-reactive"
+    ]
+  },
+  {
+    "humVersionId": "hum0056-v1",
+    "raw_text": "electrophoresis and qPCR"
+  },
+  {
+    "humVersionId": "hum0072-v1",
+    "raw_text": "Sample call rate < 0.95, SNP call rate < 0.99, HWE P < 0.001",
+    "sample_call_rate_threshold": "< 0.95",
+    "SNP_call_rate_threshold": "< 0.99",
+    "HWE_P_threshold": "< 0.001"
+  },
+  {
+    "humVersionId": "hum0074-v1",
+    "raw_text": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4",
+    "sample_call_rate_threshold": "< 0.95",
+    "SNP_call_rate_threshold": "< 0.95",
+    "HWE_P_threshold": "< 0.001",
+    "Chi-square_test_P_threshold": "< 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0074-v2",
+    "raw_text": "Sample call rate < 0.95, SNP call rate < 0.95, \nHWE P < 0.001, Chi-square test (allelic model) P < 1 x 10^-4",
+    "sample_call_rate_threshold": "< 0.95",
+    "SNP_call_rate_threshold": "< 0.95",
+    "HWE_P_threshold": "< 0.001",
+    "Chi-square_test_P_threshold": "< 1 x 10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v1",
+    "raw_text": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4",
+    "sample_call_rate_threshold": "< 0.95",
+    "SNP_call_rate_threshold": "< 0.95",
+    "HWE_P_threshold": "< 0.001",
+    "Chi-square_test_P_threshold": "< 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v2",
+    "raw_text": "Sample call rate < 0.97, SNP call rate < 0.95, MAF P < 0.03, HWE P < 0.001\nChi-square test P < 0.05",
+    "sample_call_rate_threshold": "< 0.97",
+    "SNP_call_rate_threshold": "< 0.95",
+    "MAF_P_threshold": "< 0.03",
+    "HWE_P_threshold": "< 0.001",
+    "Chi-square_test_P_threshold": "< 0.05"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "raw_text": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "raw_text": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "raw_text": "Sample call rate < 0.95, SNP call rate < 0.95, HWE P < 0.001\nChi-square test P < 1.0ｘ10^-4"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "raw_text": "Sample call rate < 0.97, SNP call rate < 0.95, MAF P < 0.03, HWE P < 0.001\nChi-square test P < 0.05"
+  },
+  {
+    "humVersionId": "hum0075-v3",
+    "raw_text": "pre-imputation QC: SNP call rate < 0.97, MAF P < 0.01, HWE P < 1 x10^-6\nafter imputation QC: SNPs with an info metric < 0.8 were excluded."
+  },
+  {
+    "humVersionId": "hum0076-v1",
+    "raw_text": "Sample Call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.05"
+  },
+  {
+    "humVersionId": "hum0082-v1",
+    "raw_text": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0082-v1",
+    "raw_text": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0082-v2",
+    "raw_text": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0082-v2",
+    "raw_text": "overall call rate < 0.97, SNP call rate < 0.95, HWE P < 0.001, MAF < 0.01"
+  },
+  {
+    "humVersionId": "hum0085-v1",
+    "raw_text": "For the aberration filter, the minimum number of probes in regions was set to three and the minimum absolute average log-ratio of region was set to each array."
+  },
+  {
+    "humVersionId": "hum0085-v2",
+    "raw_text": "For the aberration filter, the minimum number of probes in regions was set to three and the minimum absolute average log-ratio of region was set to each array."
+  },
+  {
+    "humVersionId": "hum0094-v3",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v3",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v4",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v4",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v5",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v5",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v6",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v6",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v7",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v7",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v8",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v8",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v9",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v9",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v10",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v10",
+    "raw_text": "As described in 'Illumina Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0094-v11",
+    "raw_text": "Detection P-value >= 0.05"
+  },
+  {
+    "humVersionId": "hum0094-v11",
+    "raw_text": "As described in 'Illumine Infinium Assay Ver.2.1.'"
+  },
+  {
+    "humVersionId": "hum0099-v1",
+    "raw_text": "Total read counts < 2 x 107 、Mapping rates < 90%、Mean inter-sample correlation coefficients < 0.94"
+  },
+  {
+    "humVersionId": "hum0099-v1",
+    "raw_text": "MAF ≥ 0.05, average maximum posterior probability ≥ 0.9, INFO ≥ 0.4 (5,600,101 variants)"
+  },
+  {
+    "humVersionId": "hum0103-v3",
+    "raw_text": "Data with bad base quality and high %GC content were removed.\nAligment:\nData matched for the following condition were removed.\n- Low mapping rate\n- Different insert size\n- Gender information mismatch between meta-data and genotype data\n- Suspected sex chromosome aberration\nGenotyping:\nGATK’s best practices includes a variant filtering step following Variant Quality Score Recalibration (VQSR)\n- DP/GP (DP < 5, GQ < 20, DP > 60, GQ < 95 )\n- Heterozygosity (F>=0.05)\n- Hardy-Weinberg equilibrium (p < 10^-6）\n- Repeat & Low Complexity\nPrincipal Component Analysis (PCA):\nPCA was performed with individuals included in the 1000 genomes project and outliers from Japanese cluster were removed.\n \nAfter these filtering steps, variants located in the regions listed as the HighConfidenceRegion (Genome-In-A-Bottle project) were flagged."
+  },
+  {
+    "humVersionId": "hum0103-v4",
+    "raw_text": "Data with bad base quality and high %GC content were removed.\nAligment:\nData matched for the following condition were removed.\n- Low mapping rate\n- Different insert size\n- Gender information mismatch between meta-data and genotype data\n- Suspected sex chromosome aberration\nGenotyping:\nGATK’s best practices includes a variant filtering step following Variant Quality Score Recalibration (VQSR)\n- DP/GP (DP < 5, GQ < 20, DP > 60, GQ < 95 )\n- Heterozygosity (F>=0.05)\n- Hardy-Weinberg equilibrium (p < 10^-6）\n- Repeat & Low Complexity\nPrincipal Component Analysis (PCA):\nPCA was performed with individuals included in the 1000 genomes project and outliers from Japanese cluster were removed.\n \nAfter these filtering steps, variants located in the regions listed as the HighConfidenceRegion (Genome-In-A-Bottle project) were flagged."
+  },
+  {
+    "humVersionId": "hum0108-v1",
+    "raw_text": "(1) detection p value of each probe ≥ 0.01 \n(2) probe call rate >95% \n(3) on autosomal chromosomes\n(4) does not include SNP which minor allele frequency is greater than or equal to 5%\n(5) hybridizes to a specific sequence*1"
+  },
+  {
+    "humVersionId": "hum0114-v1",
+    "raw_text": "sample call rate < 0.99, SNP call rate < 0.99, HWE-P < 1x10^-7"
+  },
+  {
+    "humVersionId": "hum0114-v2",
+    "raw_text": "sample call rate < 0.99, SNP call rate < 0.99, HWE-P < 1x10^-7"
+  },
+  {
+    "humVersionId": "hum0114-v3",
+    "raw_text": "sample call rate < 0.99, SNP call rate < 0.99, HWE-P < 1x10^-7"
+  },
+  {
+    "humVersionId": "hum0115-v1",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0117-v1",
+    "raw_text": "-"
+  },
+  {
+    "humVersionId": "hum0119-v1",
+    "raw_text": "Exclusion criteria : sample call-rate < 0.95, PCA outlier of Japanese population, encrypted relatedness (pihat > 0.38)\nSNP call-rate < 0.99, HWE-p < 1e-6, MAF< 0.01"
+  },
+  {
+    "humVersionId": "hum0126-v1",
+    "raw_text": "Sample Call rate < 0.97, SNP call rate < 0.97, HWE P < 0.0001, MAF < 0.05"
+  },
+  {
+    "humVersionId": "hum0126-v2",
+    "raw_text": "Sample Call rate < 0.97, SNP call rate < 0.97, HWE P < 0.0001, MAF < 0.05"
+  },
+  {
+    "humVersionId": "hum0126-v2",
+    "raw_text": "Sample Call rate < 0.97, SNP call rate < 0.97, HWE P < 0.0001, MAF < 0.05\nImputation quality (Rsq) < 0.5"
+  },
+  {
+    "humVersionId": "hum0127-v1",
+    "raw_text": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "raw_text": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "raw_text": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "raw_text": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "raw_text": "Torrent Suite"
+  },
+  {
+    "humVersionId": "hum0127-v2",
+    "raw_text": "Torrent Suite"
+  }
+]

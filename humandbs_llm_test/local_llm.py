@@ -70,7 +70,7 @@ def main() -> None:
             print(f"Result: {result}")
             continue
 
-    with OUTPUT_DIR_PATH.joinpath("phi2_results.json").open("w", encoding="utf-8") as f:
+    with OUTPUT_DIR_PATH.joinpath("llama_results.json").open("w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
 
